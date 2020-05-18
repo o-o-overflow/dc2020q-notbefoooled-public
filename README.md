@@ -35,3 +35,7 @@ def find_safe_curve(p):
                   print("Find Safe Anomalous Curve")
                   yield (E, b)
 ```
+
+## Another Intersting Solution
+
+https://hxp.io/blog/72/DEFCON-CTF-Quals-2020-notbefoooled/
